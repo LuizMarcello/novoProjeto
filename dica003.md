@@ -1,2 +1,2 @@
 criado arquivos de dicas
-eu também alterei este arquivo ferrou
+este arquivo foi criado
