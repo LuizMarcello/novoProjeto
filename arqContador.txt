@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Arquivo para as contagens.
+=======
+
+>>>>>>> c68ec4cbef164068a253c69782a3b617d1ed61ad
