@@ -1,2 +1,1 @@
-
-Eu mesmo criei este arquivo
+este é um arquivo para organização do projeto.
